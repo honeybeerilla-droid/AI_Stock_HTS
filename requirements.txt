@@ -1,0 +1,7 @@
+streamlit
+yfinance
+requests
+beautifulsoup4
+OpenDartReader
+youtube-transcript-api
+google-generativeai

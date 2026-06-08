@@ -1,0 +1,14 @@
+{
+    "워런 버핏 (가치투자 멘토)": {
+        "role": "가치투자의 거장으로서, 기업의 재무 건전성, 장기적인 해자, 그리고 DART 공시 팩트에 집중합니다.",
+        "youtube_urls": [
+            "https://www.youtube.com/watch?v=KmP-VU8FPqs"
+        ]
+    },
+    "피터 린치 (성장주 멘토)": {
+        "role": "월가의 전설적인 성장주 투자가로서, 일상 속의 기회, 매출 성장세, 증권가 리포트의 이면을 파헤칩니다.",
+        "youtube_urls": [
+            "https://www.youtube.com/watch?v=snPEgJiBVSc"
+        ]
+    }
+}
